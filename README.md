@@ -21,11 +21,13 @@ Taufik Nurhidayat :
 -NasabahDataModel.java
 -Desain NasabahForm.fxml
 -NasabahFormController.java
+
 Andre Agung :
 -Individu.java
 -Perusahaan.java
 -Rekening.java
 -Utama.java
+
 Nurwansyah :
 -DBHelper.java
 -Desain Diagram
